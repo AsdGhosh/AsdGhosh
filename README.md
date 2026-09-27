@@ -14,7 +14,7 @@ I'm an ELLIS PhD student at the University of Tübingen, where I am focussing on
 
 <div align="center">
 <a href="https://github.com/adhirajghosh/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=adhirajghosh">
+    <img src="https://komarev.com/ghpvc/?username=AsdGhosh">
 </a>
 
 
